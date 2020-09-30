@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RockMazeGoblin
+  m_Controller: {fileID: 9100000, guid: 190057187612300478f7a11aa609d13a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 634708f13c5e7fc4dab56942de36684b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e1021abd463594542b1389945a3818e7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3dee522fa4947d24fae742a46f7baef9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21cc57cd066cbea4daeec7e154257c04, type: 2}
